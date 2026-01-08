@@ -10,9 +10,9 @@
   display: flex;
   justify-self: center;
   gap: 33px;
+  margin-bottom: 6px;
   text-underline-offset: 4px;
   list-style: circle;
-  margin-bottom: 6px;
 }
 
 .header__link {
@@ -53,7 +53,7 @@
 }
 
 .header__address {
-  justify-self: end;  
+  justify-self: end;
   margin-right: 39px;
   margin-bottom: 3px;
 }
@@ -141,7 +141,7 @@
   background-color: transparent;
 }
 
-.lots {  
+.lots {
   margin: 184px 24px 155px;
 }
 
@@ -174,7 +174,6 @@
 
 .card_type_film {
   background-image: url("../images/card-lot-01.jpg");
-  
 }
 
 .card_type_book {
@@ -182,7 +181,7 @@
 }
 
 .card_type_picture {
-  background-image: url("../images/card-lot-03.jpg");  
+  background-image: url("../images/card-lot-03.jpg");
 }
 
 .card-link {
@@ -245,12 +244,12 @@
   width: 240px;
   height: 240px;
   border-radius: 50%;
-  background-color: black;  
+  background-color: black;
 }
 
 .about__logo-image {
   width: 148px;
-  height: 114px;  
+  height: 114px;
 }
 
 .about__title {
@@ -282,7 +281,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   justify-items: center;
-  align-items: start;  
+  align-items: start;
 }
 
 .footer_contacts {
